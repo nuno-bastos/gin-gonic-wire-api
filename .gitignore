@@ -1,0 +1,16 @@
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build artifacts
+build/
+bin/
+
+# Configuration file
+config/config.yaml
+
+# Air file
+.air.toml
